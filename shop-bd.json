@@ -1,0 +1,232 @@
+{
+    "catalog": [
+        {
+            "snowboard":[
+                {
+                    "Burton":{
+                        "items":{
+                            "0":{
+                                "id":1234,
+                                "name":"burton rx-06",
+                                "length": "120sm"
+                            },
+                            "1":{
+                                "id":1235,
+                                "name":"burton rx-07",
+                                "length": "125sm"
+                            },
+                            "2":{
+                                "id":1236,
+                                "name":"burton rx-08",
+                                "length": "130sm"
+                            },
+                            "3":{
+                                "id":1237,
+                                "name":"burton rx-09",
+                                "length": "140sm"
+                            }
+                        }
+                    },
+                    "Dakine":{
+                        "items":{
+                            "0":{
+                                "id":1231,
+                                "name":"dakine ax-01",
+                                "length": "110sm"
+                            },
+                            "1":{
+                                "id":1232,
+                                "name":"dakine ax-02",
+                                "length": "115sm"
+                            },
+                            "2":{
+                                "id":1233,
+                                "name":"dakine ax-03",
+                                "length": "120sm"
+                            },
+                            "3":{
+                                "id":1241,
+                                "name":"dakine ax-04",
+                                "length": "125sm"
+                            }
+                        }
+                    },
+                    "Phantom":{
+                        "items":{
+                            "0":{
+                                "id":1121,
+                                "name":"phantom x-01",
+                                "length": "121sm"
+                            },
+                            "1":{
+                                "id":1131,
+                                "name":"phantom x-02",
+                                "length": "123sm"
+                            },
+                            "2":{
+                                "id":1141,
+                                "name":"phantom x-04",
+                                "length": "165sm"
+                            },
+                            "3":{
+                                "id":1151,
+                                "name":"phantom x-06",
+                                "length": "183sm"
+                            }
+                        }
+                    },
+                    "Salomon":{
+                        "items":{
+                            "0":{
+                                "id":1011,
+                                "name":"salomon xm-01",
+                                "length": "143sm"
+                            },
+                            "1":{
+                                "id":1021,
+                                "name":"salomon xm-02",
+                                "length": "153sm"
+                            },
+                            "2":{
+                                "id":1031,
+                                "name":"salomon xm-06",
+                                "length": "163sm"
+                            },
+                            "3":{
+                                "id":1041,
+                                "name":"salomon xm-08",
+                                "length": "173sm"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "alpine skiing": [
+                {
+                    "Atomic":{
+                        "items":{
+                                "0":{
+                                    "id":1101,
+                                    "name":"atomic xs-00",
+                                    "length": "143sm"
+                                },
+                                "1":{
+                                    "id":1102,
+                                    "name":"atomic xs-10",
+                                    "length": "145sm"
+                                },
+                                "2":{
+                                    "id":1103,
+                                    "name":"atomic xs-10",
+                                    "length": "163sm"
+                                },
+                                "3":{
+                                    "id":1104,
+                                    "name":"atomic xs-10",
+                                    "length": "183sm"
+                                }
+                            }
+                    },
+                    "Black Diamond":{
+                        "items":{
+                            "0":{
+                                "id":2101,
+                                "name":"black diamond xb-0r1",
+                                "length": "123sm"
+                            },
+                            "1":{
+                                "id":2102,
+                                "name":"black diamond xb-0r2",
+                                "length": "133sm"
+                            },
+                            "2":{
+                                "id":2103,
+                                "name":"black diamond xb-0r3",
+                                "length": "153sm"
+                            },
+                            "3":{
+                                "id":2104,
+                                "name":"black diamond xb-0r4",
+                                "length": "173sm"
+                            }
+                        }
+                    },
+                    "Fischer":{
+                        "items":{
+                            "0":{
+                                "id":6101,
+                                "name":"fischer ff-01",
+                                "length": "113sm"
+                            },
+                            "1":{
+                                "id":6102,
+                                "name":"fischer ff-02",
+                                "length": "123sm"
+                            },
+                            "2":{
+                                "id":6103,
+                                "name":"fischer ff-03",
+                                "length": "143sm"
+                            },
+                            "3":{
+                                "id":6104,
+                                "name":"fischer ff-04",
+                                "length": "173sm"
+                            }
+                        }
+                    },
+                    "Kastle":{
+                        "items":{
+                            "0":{
+                                "id":5101,
+                                "name":"kastle kk-01",
+                                "length": "113sm"
+                            },
+                            "1":{
+                                "id":5102,
+                                "name":"kastle kk-02",
+                                "length": "133sm"
+                            },
+                            "2":{
+                                "id":5103,
+                                "name":"kastle kk-03",
+                                "length": "153sm"
+                            },
+                            "3":{
+                                "id":5104,
+                                "name":"kastle kk-05",
+                                "length": "193sm"
+                            }
+                        }
+                    },
+                    "Salomon":{
+                        "items":{
+                            "0":{
+                                "id":20001,
+                                "name":"salomon ssx-0xr1",
+                                "length": "163sm"
+                            },
+                            "1":{
+                                "id":20002,
+                                "name":"kastle ssx-0xr2",
+                                "length": "183sm"
+                            },
+                            "2":{
+                                "id":20003,
+                                "name":"salomon ssx-0xr3",
+                                "length": "193sm"
+                            },
+                            "3":{
+                                "id":20004,
+                                "name":"salomon ssx-0xr4",
+                                "length": "198sm"
+                            }
+                        }
+                    }
+                }
+            ]   
+        }
+    ]
+}
